@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J7,J5,J4,J3,J2";"PinSocket_1x04_P2.54mm_Vertical";5;"Conn_01x04_Pin";;;
+2;"J6";"PinSocket_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
+3;"U4,U1";"MODULE_A4988_STEPPER_MOTOR_DRIVER_CARRIER";2;"A4988_STEPPER_MOTOR_DRIVER_CARRIER";;;
+4;"R1,R5,R6,R4,R3,R2";"R_0603_1608Metric";6;"5.1K";;;
+5;"SW2,SW1";"SW-SMD_L3.9-W3.0-P4.45";2;"TS-1088-AR02016";;;
+6;"D3";"LED_0603_1608Metric";1;"BLUE";;;
+7;"C3,C4";"C_0603_1608Metric";2;"100n";;;
+8;"J1";"HRO_TYPE-C-31-M-12";1;"TYPE-C-31-M-12";;;
+9;"D2";"LED_0603_1608Metric";1;"GREEN";;;
+10;"U3";"SOT-223-3_TabPin2";1;"LD1117S33TR_SOT223";;;
+11;"C5";"C_0603_1608Metric";1;"1u";;;
+12;"C2";"C_0603_1608Metric";1;"22u";;;
+13;"U2";"ESP32-S3-WROOM-1";1;"ESP32-S3-WROOM-1";;;
+14;"C1";"C_0603_1608Metric";1;"10u";;;
+15;"D1";"LED_0603_1608Metric";1;"RED";;;
