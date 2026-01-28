@@ -4,4 +4,5 @@ I want to create a drawing robot for my assignments. I think it will be helpful.
 ![WhatsApp Image 2026-01-21 at 7 19 57 PM](https://github.com/user-attachments/assets/25920805-f0f8-483b-921f-a30651091020)
 ![2026-01-16 at 9 46 21 PM](https://github.com/user-attachments/assets/d70a4fb1-c665-424e-bacc-478c4cd02787)
 <img width="902" height="721" alt="image" src="https://github.com/user-attachments/assets/4e5c52e8-756f-44c7-91d5-2942dd454068" />
-![Uploading WhatsApp Image 2026-01-27 at 10.24.27 PM.jpeg…]()
+![WhatsApp Image 2026-01-27 at 10 24 27 PM](https://github.com/user-attachments/assets/19a45baa-c425-4d39-8e44-49b352461c7f)
+
